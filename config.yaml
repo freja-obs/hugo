@@ -1,11 +1,12 @@
 baseURL: https://freja-obs.github.io/
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: FREJA
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
+
 
 taxonomies:
   tag: tags
@@ -17,7 +18,7 @@ imaging:
   quality: 99
 
 params:
-  description: FRagmentation and Evolution of dense cores Judged by ALMA.
+  description: FRagmentation and Evolution of dense cores Judged by ALMA
   homeMetaContent: FRagmentation and Evolution of dense cores Judged by ALMA
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -30,7 +31,18 @@ menu:
     - name: Home
       url: /
       weight: 1
-
+    - name: Project
+      url: /project/
+      weight: 2
+    - name: Member
+      url: /member/
+      weight: 3
+    - name: Data
+      url: /data/
+      weight: 4
+    - name: Publications
+      url: /publications/
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark

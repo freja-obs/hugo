@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to FREJA Homepage !! on FREJA</title>
+    <link>https://freja-obs.github.io/</link>
+    <description>Recent content in Welcome to FREJA Homepage !! on FREJA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://freja-obs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://freja-obs.github.io/publications/</link>
+      <pubDate>Tue, 18 Feb 2020 17:10:45 +0900</pubDate>
+      
+      <guid>https://freja-obs.github.io/publications/</guid>
+      <description>Journal  Tokuda et al. 2020  Fujishiro et al. 2020    Title &amp;ldquo;FRagmentation and Evolution of dense cores Judged by ALMA (FREJA). I
+Inner ~1000 au structures of prestellar/protostellar cores in Taurus&amp;rdquo;
+Member Kazuki Tokuda, Kakeru Fujishiro, Kengo Tachihara, Tatsuyuki Takashima, Sarolta Zahorecz, Kazuya Saigo, Tomoaki Matsumoto, Yasuo Fukui, Kengo Tomida, Masahiro N. Machida, Shu-ichiro Inutsuka, Philippe Andre, Akiko Kawamura, and Toshikazu Onishi
+Abstruct
+We have performed survey-type observations in 1 mm continuum and molecular lines toward dense cores (32 prestellar + 7 protostellar) with an average density of &amp;gt;10$^5$ cm$^{-3}$ in the Taurus molecular clouds using the ALMA-ACA (Atacama Compact Array) stand-alone mode with an angular resolution of $\sim$6\farcs7 ($\sim$940 au).</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://freja-obs.github.io/project/</link>
+      <pubDate>Tue, 18 Feb 2020 17:10:22 +0900</pubDate>
+      
+      <guid>https://freja-obs.github.io/project/</guid>
+      <description>in prep.</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://freja-obs.github.io/data/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freja-obs.github.io/data/</guid>
+      <description>You can download calibrated fits cubes form the following site.
+Click here to download.</description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>https://freja-obs.github.io/member/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freja-obs.github.io/member/</guid>
+      <description>Name Affiliation E-mail     Kengo Tachihara Naoya U. 1    Kazuki Tokuda Osaka Pref. U.2, NAOJ3    Kakeru Fujishiro Naoya U.1    Tatsuyuki Takashima Osaka Pref. U.3    Yasumasa Yamasaki Osaka Pref. U.3       Department of Physics, Nagoya University, Chikusa-ku, Nagoya 464-8602, Japan &amp;#x21a9;&amp;#xfe0e;
+ Department of Physical Science, Graduate School of Science, Osaka Prefecture University, 1-1 Gakuen-cho, Naka-ku, Sakai, Osaka 599-8531, Japan &amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+  </channel>
+</rss>
