@@ -6,6 +6,10 @@ font-size: 1em
 
 ### Journal
 <!-- 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 187d20fa03983b1ed2f1d3b61dc8c958a30bacb0
 - <a href="#Tokuda20">Tokuda et al. 2020 </a>
 - <a href="#Fujishiro20">Fujishiro et al. 2020 </a>
 

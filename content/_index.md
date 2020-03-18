@@ -14,5 +14,5 @@ This is Homepage of
 
 # About
 
-hogrhoge
+hoghoge_test_tokuda
 
