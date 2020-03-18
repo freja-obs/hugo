@@ -5,6 +5,9 @@ font-size: 1em
 ---
 
 ### Journal
+
+hogehoge
+
 <!-- 
 - <a href="#Tokuda20">Tokuda et al. 2020 </a>
 - <a href="#Fujishiro20">Fujishiro et al. 2020 </a>
