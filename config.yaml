@@ -18,7 +18,7 @@ imaging:
   quality: 99
 
 params:
-  description: FRagmentation and Evolution of dense cores Judged by ALMA
+  description: FRagmentation and Evolution of dense cores Judged by <br>ALMA
   homeMetaContent: FRagmentation and Evolution of dense cores Judged by ALMA
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
